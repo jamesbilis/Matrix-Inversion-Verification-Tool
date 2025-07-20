@@ -15,7 +15,7 @@ This command-line Python tool checks whether two user-provided square matrices a
 - Includes error tolerance for floating-point precision
 - Clean CLI prompts and result feedback
 
-## ▶How to Run
+## How to Run
 
 ```bash
 python matrix_checker.py
